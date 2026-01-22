@@ -1,1 +1,4 @@
+#MEDIR TAMANHO DOS SNAPSHOTS
+
+zfs list -o name,used,usedsnap,refer,mountpoint
 
